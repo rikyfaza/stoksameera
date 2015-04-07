@@ -1,0 +1,6 @@
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/k2804546/public_html/stok/application/views/common/main_header.php on line 3
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/k2804546/public_html/stok/application/views/common/sidebar.php on line 8
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/k2804546/public_html/stok/application/views/common/header.php on line 10
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/k2804546/public_html/stok/application/views/common/content.php on line 6
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Call to undefined function site_url() in /home/k2804546/public_html/stok/application/views/common/404.php on line 11
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/k2804546/public_html/stok/application/views/common/footer.php on line 28

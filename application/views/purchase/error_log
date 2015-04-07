@@ -1,0 +1,2 @@
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Call to undefined function site_url() in /home/k2804546/public_html/stok/application/views/purchase/list_purchase.php on line 9
+[31-Mar-2015 08:40:20 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/k2804546/public_html/stok/application/views/purchase/new_purchase.php on line 7
