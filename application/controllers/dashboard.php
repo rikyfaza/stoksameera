@@ -1,5 +1,5 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
-
+// this is dashboard
 class Dashboard extends MY_Controller 
 {
 	function __construct() 
